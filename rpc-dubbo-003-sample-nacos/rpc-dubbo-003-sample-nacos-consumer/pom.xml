@@ -8,7 +8,7 @@
     </parent>
     <artifactId>rpc-dubbo-003-sample-nacos-consumer</artifactId>
     <properties>
-        <dubbo.version>2.7.5</dubbo.version>
+        <dubbo.version>2.7.15</dubbo.version>
     </properties>
 
     <dependencies>
